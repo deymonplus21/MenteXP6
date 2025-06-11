@@ -54,4 +54,3 @@ restartButton.addEventListener("click", () => {
   mostrarPregunta();
 });
 
-window.onload = mostrarPregunta;
